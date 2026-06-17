@@ -30,4 +30,5 @@ Manasa Mythri
 
 The vending machine successfully dispenses a product after receiving the required number of coins and the waveform verifies the FSM operation.
 
-![WAVEFORM](vending%20machine%20FSM_waveform)
+![WAVEFORM](vending%20machine%20FSM_waveform.png)
+
