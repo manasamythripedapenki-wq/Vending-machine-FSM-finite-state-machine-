@@ -1,6 +1,6 @@
 # Vending-machine-FSM-finite-state-machine
 verilog implementation of a Vending machine FSM(finite state machine)
-Description
+## Description
 
 This project implements a simple Finite State Machine (FSM) based Vending Machine in Verilog. The machine dispenses a product after receiving two coins.
 
